@@ -8,9 +8,9 @@ The purpose of this analysis is to determine which stocks are likely to return a
 
 ## Analysis and Results
 Based on the 2017 year, DQ had the largest profit, followed by SEDG and ENPH.
-![2017]( "2017")
+![2017](https://raw.githubusercontent.com/Queach/stock-analysis/main/Resources/2017%20numbers.png "2017")
 Based on the 2018 year, ENPH had the largest profit, followed by RUN. All other stocks were a loss.
-![2017]( "2017")
+![2017](https://raw.githubusercontent.com/Queach/stock-analysis/main/Resources/2018%20numbers.png"2017")
 
 Based on the information of these 2 years, ENPH seems likely to be a stable stock to invest in as in continues to deliver each year.
 
