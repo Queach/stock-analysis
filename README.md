@@ -38,4 +38,4 @@ At the same time the code we wrote at the end of the day still only works in thi
 and took less time to write. The refactored code however has a shorter runtime than the original, if the client was running on an older computer
 this code mean 10's of seconds and would be much less irritating.
 
-
+![2018](https://raw.githubusercontent.com/Queach/stock-analysis/main/Resources/VBA_Challenge_2018.png "2018")
